@@ -227,6 +227,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [xtemplate](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 * [marko](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
 * [swig](http://paularmstrong.github.io/swig/) - A simple, powerful, and extendable Node.js and browser-based JavaScript template engine.
+* [Template7](https://github.com/nolimits4web/template7/) - Template7 is a mobile-first JavaScript template engine with Handlebars-like syntax.
 
 ## Articles and Posts
 
